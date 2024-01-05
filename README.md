@@ -1,4 +1,4 @@
-# Data Mining House Energy Consumption
+# House Energy Consumption
 
 On October 7, 2016, the highest overall house energy consumption was at 6:00; the lowest overall house energy consumption was at 13:00. The higher house energy consumption was from 6:00 to 12:00. During this period time, the living room and barn had higher energy consumption and was quite lively. Solar generated the most substantial power between 11:00 and 13:00. The balance between overall house energy consumption and solar power generation was between 9:00 and 13:30. So for each day, focusing on decreasing energy consumption in the morning.
 
